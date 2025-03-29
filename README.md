@@ -2,17 +2,17 @@ Welcome to my GitHub profile! I'm a passionate learner, programmer, and problem 
 
 ---
 
-## 🧠 About Me
+##About Me
 
-- 💻 Python enthusiast with a love for both theoretical and applied problem-solving
-- 🎓 Strong academic foundation in mathematics and engineering
-- 🧮 Interested in machine learning, computational mathematics, and symbolic computation
-- 🛠️ Currently working on a command-line calculator and exploring contributions to open-source projects
-- 📍 Based in USA
+- Python enthusiast with a love for both theoretical and applied problem-solving
+- Strong academic foundation in mathematics and engineering
+- Interested in machine learning, computational mathematics, and symbolic computation
+- Currently working on a command-line calculator and exploring contributions to open-source projects
+- Based in USA
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Languages**: Python, LaTeX
 - **Tools**: Git & GitHub, Jupyter, VS Code
@@ -20,14 +20,14 @@ Welcome to my GitHub profile! I'm a passionate learner, programmer, and problem 
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 - [Simple Python Expression Calculator](https://github.com/Ms-Tanya-Singh/Ms_Tanya_Codes)  
   A terminal-based calculator that parses and evaluates user-entered expressions with input validation and operator handling.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Theoretical Machine Learning
 - Symbolic computation using Python
@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate learner, programmer, and problem 
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - [Email me](mailto:roz.tns@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tanya-singh-9b9b1513/)
