@@ -2,7 +2,7 @@ Welcome to my GitHub profile! I'm a passionate learner, programmer, and problem 
 
 ---
 
-##About Me
+About Me
 
 - Python enthusiast with a love for both theoretical and applied problem-solving
 - Strong academic foundation in mathematics and engineering
