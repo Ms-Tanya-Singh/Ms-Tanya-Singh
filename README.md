@@ -35,6 +35,12 @@ Welcome to my GitHub profile! I'm a passionate learner, programmer, and problem 
 
 ---
 
+##  Creative Side
+
+In addition to coding, I'm a lifelong poet — my writing captures hope, fragility, and the beauty of contrast. I believe that the best work often happens at the intersection of logic and feeling.
+
+📖 [Reference to some of my works of poetry, design and photography (self-portraits) : https://www.instagram.com/poetess_of_aethestic/ 
+
 ##  Let's Connect
 
 - [Email me](mailto:roz.tns@gmail.com)
