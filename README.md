@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate learner, programmer, and problem 
 
 About Me
 
-- Python enthusiast with a love for both theoretical and applied problem-solving
-- Strong academic foundation in mathematics and engineering
+- Python enthusiast with a keen penchant for both theoretical and applied problem-solving
+- Cuurently building my masters-level academic foundation in mathematics and computing, with a prior background in chemical engineering from Georgia Institute of Technology.
 - Interested in machine learning, computational mathematics, and symbolic computation
 - Currently working on a command-line calculator and exploring contributions to open-source projects
 - Based in USA
