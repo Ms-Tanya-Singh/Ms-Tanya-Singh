@@ -37,7 +37,7 @@ About Me
 
 ##  Creative Side
 
-In addition to coding, I'm a lifelong poet — my writing captures hope, fragility, and the beauty of contrast. I believe that the best work often happens at the intersection of logic and feeling.
+In addition to coding, I'm a dabbler of poetry, where verses breath in the backrop (my designed) aesthetics and captures hope, fragility, dignity and the beauty of living the gift of life as a woman. I believe that the best work often happens at the intersection of logic and feeling.
 
 📖 [Reference to some of my works of poetry, design and photography (self-portraits) : https://www.instagram.com/poetess_of_aethestic/ 
 
